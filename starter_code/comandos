@@ -1,0 +1,8 @@
+npm init
+npm install express --save
+npm install mongoose --save
+npm install body-parser --save
+npm i hbs --save
+npm i spotify-web-api-node --save
+npm i prettyjson --save
+npm i nodemon --save
